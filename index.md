@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Негізгі
 layout: home
 ---
 
